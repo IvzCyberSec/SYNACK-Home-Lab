@@ -4,7 +4,6 @@ A compact, 3D-printed networking and cybersecurity lab built around a custom rac
 
 ## Final Build
 
-<!-- Add your best straight-on photo of the fully assembled rack below. -->
 ![SYNACK Home Lab, fully assembled](docs/images/08-final-rack/final-rack-front.jpg)
 
 The current setup brings together a TP-Link N300 router, a D-Link DGS-108 8-port Gigabit switch and a Raspberry Pi 4 in a compact rack based on the open-source Labrax design. The rack is intended to support controlled networking exercises, cybersecurity experiments and practical CTF demonstrations.
@@ -25,33 +24,32 @@ I wanted the rack to be more than a collection of devices placed on shelves. I s
 
 ### 1. Reference Design and Planning
 
-<!-- Add screenshots of the original online rack model and the layout you planned. -->
 ![Original rack reference](docs/images/01-concept-and-inspiration/original-rack-reference.jpg)
 
 I used the open-source Labrax rack as the starting point and reviewed the available device mounts before adapting the design to suit my equipment. The goal was to keep the setup compact while preserving access to ports, screws and cabling.
 
 ### 2. Original Rack Model
 
-<!-- Add a screenshot or photo of the unmodified rack model or first printed version. -->
+
 ![Original rack model](docs/images/02-original-rack/original-rack-reference.png)
 
 ### 3. Rack and Mount Improvements
 
-<!-- Add CAD screenshots showing both modified designs and the added lips. -->
+
 ![Modified rack and mounts](docs/images/03-rack-modifications/modified-rack-and-mounts.png)
 
 I adapted the existing mounts to better suit my devices. Changes included adding a rear retaining lip to help hold the router and DGS-108 in place, and modifying the Raspberry Pi mount with an HDMI opening and retaining lip. These changes improved the fit and made the required ports more accessible.
 
 ### 4. Router Disassembly
 
-<!-- Add photos of the router before disassembly and during the teardown. Avoid showing sensitive network credentials. -->
+
 ![TP-Link N300 disassembly](docs/images/04-router-disassembly/router-disassembly.jpg)
 
 The original TP-Link N300 housing did not suit the rack layout, so I disassembled the router to measure and accommodate the internal board and external connections. The modification included desoldering the antennas from the original housing. This was a delicate step, requiring care around the PCB, antenna connections and clearances.
 
 ### 5. Custom Router Enclosure Design
 
-<!-- Add CAD screenshots from different angles, including port openings and internal clearances. -->
+
 ![Custom router enclosure CAD](docs/images/05-router-enclosure-design/router-enclosure-cad.png)
 
 I designed a new enclosure for the TP-Link N300, aiming for a form factor that matched the DGS-108 and sat neatly in the rack. I accounted for port alignment, board clearance, mounting points and access to the router's controls and connectors.
@@ -64,21 +62,21 @@ Fit checks were an important part of the process. Port openings, screw access, m
 
 ### 7. Printed and Assembled Router
 
-<!-- Add a clear photo of the finished router inside your custom enclosure, ideally with the ports visible. -->
+
 ![Printed and assembled router enclosure](docs/images/07-assembled-router/assembled-router-enclosure.png)
+[Printed and assembled router enclosure](docs/images/07-assembled-router/assembled-router-enclosure2.png)
 
 After printing, I fitted the router hardware into the enclosure and checked the alignment of the ports and mounting points. The finished enclosure gives the router a consistent form factor with the other rack-mounted equipment.
 
 ### 8. Final Rack Assembly
 
-<!-- Add a straight-on final photo, a three-quarter view and a rear view showing cable routing. -->
+
 ![Final assembled SYNACK rack](docs/images/08-final-rack/final-rack-front.jpg)
 
 The final assembly brings the router, switch and Raspberry Pi into one compact platform. The custom SYNACK logo ties the parts together visually, while the revised mounts help keep the devices aligned and secure.
 
 ### 9. Network Topology
 
-<!-- Add your network topology diagram here. Include the mini PC only once it is installed. -->
 ![SYNACK Home Lab network topology](docs/images/09-network-topology/network-topology.png)
 
 ## Networking and Cybersecurity Use
