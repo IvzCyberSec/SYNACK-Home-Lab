@@ -64,7 +64,7 @@ Fit checks were an important part of the process. Port openings, screw access, m
 
 
 ![Printed and assembled router enclosure](docs/images/07-assembled-router/assembled-router-enclosure.png)
-[Printed and assembled router enclosure2](docs/images/07-assembled-router/assembled-router-enclosure2.jpg)
+![Printed and assembled router enclosure2](docs/images/07-assembled-router/assembled-router-enclosure2.jpg)
 
 After printing, I fitted the router hardware into the enclosure and checked the alignment of the ports and mounting points. The finished enclosure gives the router a consistent form factor with the other rack-mounted equipment.
 
