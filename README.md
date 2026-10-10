@@ -33,7 +33,7 @@ I used the open-source Labrax rack as the starting point and reviewed the availa
 ### 2. Original Rack Model
 
 <!-- Add a screenshot or photo of the unmodified rack model or first printed version. -->
-![Original rack model](docs/images/02-original-rack/original-rack-reference.png)
+![Original rack model](docs/images/02-original-rack/original-rack-reference.jpg)
 
 This section records the starting design before my changes. The original source and licence should be linked in the Open-Source Credits section below.
 
@@ -139,8 +139,8 @@ STL files are suitable for printing.
 
 The Labrax rack and reused device mounts are based on third-party designs. Before publishing those files, add the original author, source URL and licence. Label modified files clearly and follow the original licence terms.
 
-- **Labrax rack:** [[](https://makerworld.com/en/collections/5813742-lab-rax)
-- **Original device mounts:** [[]](https://makerworld.com/en/models/2156118-raspberry-pi-4-10-rack-mount-series?from=search#profileId-2337263) & [[]](https://www.printables.com/model/1694721-d-link-dgs-108-10inch-mini-rack-shelf#compatibility)
+- **Labrax rack:** [Makerworld - LabRax](https://makerworld.com/en/collections/5813742-lab-rax)
+- **Original device mounts:** [MakerWorld - Pi4](https://makerworld.com/en/models/2156118-raspberry-pi-4-10-rack-mount-series?from=search#profileId-2337263) & [Printables - DGS108](https://www.printables.com/model/1694721-d-link-dgs-108-10inch-mini-rack-shelf#compatibility)
 - **Custom router enclosure, modified mounts and SYNACK logo:** Designed or modified by Ivan K., unless a file is explicitly attributed otherwise.
 
 ## Author
