@@ -35,8 +35,6 @@ I used the open-source Labrax rack as the starting point and reviewed the availa
 <!-- Add a screenshot or photo of the unmodified rack model or first printed version. -->
 ![Original rack model](docs/images/02-original-rack/original-rack-reference.png)
 
-This section records the starting design before my changes. The original source and licence should be linked in the Open-Source Credits section below.
-
 ### 3. Rack and Mount Improvements
 
 <!-- Add CAD screenshots showing both modified designs and the added lips. -->
